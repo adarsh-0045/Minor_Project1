@@ -156,8 +156,8 @@ The performance of both models was compared.
 
 | Model | MAE | MSE | RMSE | R² Score |
 |-------|-----|-----|------|-----------|
-| Linear Regression | *Generated after execution* | *Generated after execution* | *Generated after execution* | *Generated after execution* |
-| Decision Tree | *Generated after execution* | *Generated after execution* | *Generated after execution* | *Generated after execution* |
+| Linear Regression | 279.169784  | 408348.064457 | 639.021177 | 0.043339 |
+| Decision Tree | 38.469661 | 64967.874213 | 254.887964 | 0.847796 |
 
 The Decision Tree Regressor achieved better prediction performance and was selected as the final model.
 
